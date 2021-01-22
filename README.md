@@ -1,2 +1,5 @@
 # cub3d
-Ray casting
+
+## Usage
+
+Use `make` then `./cub3D test.cub`.
