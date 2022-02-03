@@ -4,8 +4,8 @@
 ## Usage
 
 ```
-docker build -t ft_server .
-docker run -d -p 8080:80 -p 443:443 ft_server
+make
+./cub3D test.cub
 ```
 
 X11ライブラリを用いたレイキャスティング
